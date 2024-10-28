@@ -1,0 +1,14 @@
+#cursor {
+    box-shadow:6px, 5px, 3px, #000;  
+}
+
+#cursor {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    box-sizing: box-border;
+    border: 2px solid #000;
+    border-radius: 5em;
+    pointer-events: none;
+    background-color: yellow;
+}
